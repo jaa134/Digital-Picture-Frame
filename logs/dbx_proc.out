@@ -1,0 +1,273 @@
+[2019-12-14 13:40:21.814] [sys_logger] [info] Logging initialized.
+[2019-12-14 13:40:21.814] [sys_logger] [info] Loading properties.
+[2019-12-14 13:40:21.814] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 13:40:21.814] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 13:40:21.814] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 13:40:21.815] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 13:40:21.815] [sys_logger] [critical] Cannot create store directory.
+[2019-12-14 13:40:21.815] [sys_logger] [critical] Undefined error: 0
+[2019-12-14 13:41:10.774] [sys_logger] [info] Logging initialized.
+[2019-12-14 13:41:10.774] [sys_logger] [info] Loading properties.
+[2019-12-14 13:41:10.774] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 13:41:10.774] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 13:41:10.774] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 13:41:10.775] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 13:41:10.775] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:41:10.775] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:41:11.274] [dbx_logger] [info] Dropbox list-files request found 1 items.
+[2019-12-14 13:41:11.274] [dbx_logger] [info] Sending request to download file: download.jpeg
+[2019-12-14 13:41:40.310] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 13:41:40.310] [sys_logger] [critical] Exiting main process.
+[2019-12-14 13:44:46.938] [sys_logger] [info] Logging initialized.
+[2019-12-14 13:44:46.938] [sys_logger] [info] Loading properties.
+[2019-12-14 13:44:46.938] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 13:44:46.938] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 13:44:46.938] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 13:44:46.938] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 13:44:46.939] [sys_logger] [critical] Cannot create store directory.
+[2019-12-14 13:44:46.939] [sys_logger] [critical] File exists
+[2019-12-14 13:47:39.471] [sys_logger] [info] Logging initialized.
+[2019-12-14 13:47:39.471] [sys_logger] [info] Loading properties.
+[2019-12-14 13:47:39.471] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 13:47:39.471] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 13:47:39.471] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 13:47:39.471] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 13:47:39.471] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:47:39.471] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:47:39.861] [dbx_logger] [info] Dropbox list-files request found 1 items.
+[2019-12-14 13:47:39.861] [dbx_logger] [info] Sending request to download file: download.jpeg
+[2019-12-14 13:48:41.087] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:48:41.087] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:48:41.557] [dbx_logger] [info] Dropbox list-files request found 1 items.
+[2019-12-14 13:48:41.557] [dbx_logger] [info] Sending request to download file: download.jpeg
+[2019-12-14 13:49:42.539] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:49:42.539] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:49:42.875] [dbx_logger] [info] Dropbox list-files request found 1 items.
+[2019-12-14 13:50:42.880] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:50:42.880] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:50:44.631] [dbx_logger] [info] Dropbox list-files request found 6 items.
+[2019-12-14 13:50:44.631] [dbx_logger] [info] Sending request to download file: test5.jpg
+[2019-12-14 13:50:46.377] [dbx_logger] [info] Sending request to download file: test6.jpg
+[2019-12-14 13:50:47.434] [dbx_logger] [info] Sending request to download file: test1.jpeg
+[2019-12-14 13:50:48.536] [dbx_logger] [info] Sending request to download file: test2.jpeg
+[2019-12-14 13:50:49.721] [dbx_logger] [info] Sending request to download file: test3.jpg
+[2019-12-14 13:51:50.590] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:51:50.590] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:51:50.896] [dbx_logger] [info] Dropbox list-files request found 6 items.
+[2019-12-14 13:51:50.896] [dbx_logger] [info] Sending request to download file: test4.jpeg
+[2019-12-14 13:52:51.755] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:52:51.755] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:52:52.107] [dbx_logger] [info] Dropbox list-files request found 6 items.
+[2019-12-14 13:53:52.111] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:53:52.111] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:53:52.986] [dbx_logger] [info] Dropbox list-files request found 6 items.
+[2019-12-14 13:54:52.991] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:54:52.991] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:54:54.067] [dbx_logger] [info] Dropbox list-files request found 6 items.
+[2019-12-14 13:55:54.072] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 13:55:54.072] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 13:55:55.134] [dbx_logger] [info] Dropbox list-files request found 6 items.
+[2019-12-14 13:55:58.562] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 13:55:58.562] [sys_logger] [critical] Exiting main process.
+[2019-12-14 14:02:42.922] [sys_logger] [info] Logging initialized.
+[2019-12-14 14:02:42.922] [sys_logger] [info] Loading properties.
+[2019-12-14 14:02:42.923] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 14:02:42.923] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 14:02:42.923] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 14:02:42.923] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 14:02:42.923] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:02:42.923] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:02:43.278] [dbx_logger] [info] Dropbox list-files request found 6 items.
+[2019-12-14 14:02:52.361] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 14:02:52.361] [sys_logger] [critical] Exiting main process.
+[2019-12-14 14:03:42.595] [sys_logger] [info] Logging initialized.
+[2019-12-14 14:03:42.595] [sys_logger] [info] Loading properties.
+[2019-12-14 14:03:42.596] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 14:03:42.596] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 14:03:42.596] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 14:03:42.596] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 14:03:42.596] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:03:42.596] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:03:42.965] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:04:00.820] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 14:04:00.820] [sys_logger] [critical] Exiting main process.
+[2019-12-14 14:30:59.144] [sys_logger] [info] Logging initialized.
+[2019-12-14 14:30:59.144] [sys_logger] [info] Loading properties.
+[2019-12-14 14:30:59.145] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 14:30:59.145] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 14:30:59.145] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 14:30:59.145] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 14:30:59.145] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:30:59.145] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:30:59.534] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:31:59.536] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:31:59.536] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:32:00.235] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:32:00.235] [dbx_logger] [warning] Unsupported file type: test4.gif
+[2019-12-14 14:32:00.235] [dbx_logger] [warning] Unsupported file type: test5
+[2019-12-14 14:33:00.238] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:33:00.238] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:33:00.548] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:34:00.550] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:34:00.550] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:34:01.068] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:35:01.073] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:35:01.073] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:35:01.421] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:36:01.425] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:36:01.425] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:36:02.153] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:37:02.157] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:37:02.157] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:37:02.521] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:38:02.525] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:38:02.525] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:38:02.843] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:39:02.847] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:39:02.847] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:39:03.186] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:40:03.193] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:40:03.193] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:40:03.548] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:41:03.555] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:41:03.555] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:41:04.093] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:42:04.095] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:42:04.095] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:42:04.516] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:43:04.517] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:43:04.517] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:43:05.028] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:43:50.546] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 14:43:50.546] [sys_logger] [critical] Exiting main process.
+[2019-12-14 14:44:23.189] [sys_logger] [info] Logging initialized.
+[2019-12-14 14:44:23.189] [sys_logger] [info] Loading properties.
+[2019-12-14 14:44:23.189] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 14:44:23.189] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 14:44:23.189] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 14:44:23.189] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 14:44:23.189] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:44:23.189] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:44:23.816] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 14:45:23.822] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 14:45:23.822] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 14:45:24.133] [dbx_logger] [info] Dropbox list-files request found 7 remote items.
+[2019-12-14 14:45:24.133] [dbx_logger] [warning] Unsupported file type: test4 copy
+[2019-12-14 14:45:24.133] [dbx_logger] [info] Sending request to delete file: test4 copy
+[2019-12-14 14:46:04.573] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 14:46:04.573] [sys_logger] [critical] Exiting main process.
+[2019-12-14 15:44:23.330] [sys_logger] [info] Logging initialized.
+[2019-12-14 15:44:23.330] [sys_logger] [info] Loading properties.
+[2019-12-14 15:44:23.330] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 15:44:23.330] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 15:44:23.330] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 15:44:23.330] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 15:44:23.330] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 15:44:23.330] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 15:44:23.672] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 15:45:23.676] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 15:45:23.676] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 15:45:24.050] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 15:45:24.050] [dbx_logger] [info] Sending request to download file: test6.jpg
+[2019-12-14 15:45:25.359] [dbx_logger] [info] Sending request to download file: test1.jpeg
+[2019-12-14 15:45:27.955] [dbx_logger] [info] Sending request to download file: test2.jpeg
+[2019-12-14 15:45:29.216] [dbx_logger] [info] Sending request to download file: test3.jpg
+[2019-12-14 15:45:30.092] [dbx_logger] [info] Sending request to download file: test5.jpg
+[2019-12-14 15:45:31.333] [dbx_logger] [info] Sending request to download file: test4.jpeg
+[2019-12-14 15:46:32.398] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 15:46:32.398] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 15:46:32.785] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 15:46:37.498] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 15:46:37.498] [sys_logger] [critical] Exiting main process.
+[2019-12-14 16:27:48.594] [sys_logger] [info] Logging initialized.
+[2019-12-14 16:27:48.594] [sys_logger] [info] Loading properties.
+[2019-12-14 16:27:48.595] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 16:27:48.595] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 16:27:48.595] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 16:27:48.595] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 16:27:48.595] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 16:27:48.595] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 16:27:48.912] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 16:27:53.548] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 16:27:53.548] [sys_logger] [critical] Exiting main process.
+[2019-12-14 16:28:08.671] [sys_logger] [info] Logging initialized.
+[2019-12-14 16:28:08.671] [sys_logger] [info] Loading properties.
+[2019-12-14 16:28:08.672] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 16:28:08.672] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 16:28:08.672] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 16:28:08.672] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 16:28:08.672] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-14 16:28:08.672] [dbx_logger] [info] Sending request to list files.
+[2019-12-14 16:28:09.132] [dbx_logger] [info] Dropbox list-files request found 6 remote items.
+[2019-12-14 16:28:09.132] [dbx_logger] [info] Sending request to download file: test6.jpg
+[2019-12-14 16:28:10.271] [dbx_logger] [info] Sending request to download file: test1.jpeg
+[2019-12-14 16:28:11.325] [dbx_logger] [info] Sending request to download file: test2.jpeg
+[2019-12-14 16:28:13.421] [dbx_logger] [info] Sending request to download file: test3.jpg
+[2019-12-14 16:28:15.302] [dbx_logger] [info] Sending request to download file: test5.jpg
+[2019-12-14 16:28:16.515] [dbx_logger] [info] Sending request to download file: test4.jpeg
+[2019-12-14 16:28:31.906] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 16:28:31.906] [sys_logger] [critical] Exiting main process.
+[2019-12-15 22:53:56.846] [sys_logger] [info] Logging initialized.
+[2019-12-15 22:53:56.846] [sys_logger] [info] Loading properties.
+[2019-12-15 22:53:56.847] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-15 22:53:56.847] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-15 22:53:56.847] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-15 22:53:56.847] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-15 22:53:56.847] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-15 22:53:56.847] [dbx_logger] [info] Sending request to list files.
+[2019-12-15 22:53:57.388] [dbx_logger] [info] Dropbox list-files request found 9 remote items.
+[2019-12-15 22:53:57.388] [dbx_logger] [info] Sending request to download file: test6 copy.jpg
+[2019-12-15 22:53:58.668] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:53:58.670] [dbx_logger] [info] Sending request to download file: test6 copy 2.jpg
+[2019-12-15 22:54:04.811] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:54:04.813] [dbx_logger] [info] Sending request to download file: test6 copy 3.jpg
+[2019-12-15 22:54:10.860] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:10.862] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-15 22:55:10.862] [dbx_logger] [info] Sending request to list files.
+[2019-12-15 22:55:11.733] [dbx_logger] [info] Dropbox list-files request found 9 remote items.
+[2019-12-15 22:55:11.733] [dbx_logger] [info] Sending request to download file: test6.jpg
+[2019-12-15 22:55:12.600] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:12.601] [dbx_logger] [info] Sending request to download file: test1.jpeg
+[2019-12-15 22:55:13.862] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:13.864] [dbx_logger] [info] Sending request to download file: test2.jpeg
+[2019-12-15 22:55:14.823] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:14.824] [dbx_logger] [info] Sending request to download file: test3.jpg
+[2019-12-15 22:55:15.912] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:15.914] [dbx_logger] [info] Sending request to download file: test5.jpg
+[2019-12-15 22:55:16.998] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:16.999] [dbx_logger] [info] Sending request to download file: test4.jpeg
+[2019-12-15 22:55:17.877] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:17.879] [dbx_logger] [info] Sending request to download file: test6 copy.jpg
+[2019-12-15 22:55:18.848] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:18.850] [dbx_logger] [info] Sending request to download file: test6 copy 2.jpg
+[2019-12-15 22:55:24.894] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:24.895] [dbx_logger] [info] Sending request to download file: test6 copy 3.jpg
+[2019-12-15 22:55:31.023] [dbx_logger] [info] File is ready to use.
+[2019-12-15 22:55:55.855] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-15 22:55:55.855] [sys_logger] [critical] Exiting main process.
+[2019-12-15 22:56:28.480] [sys_logger] [info] Logging initialized.
+[2019-12-15 22:56:28.480] [sys_logger] [info] Loading properties.
+[2019-12-15 22:56:28.480] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-15 22:56:28.480] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-15 22:56:28.480] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-15 22:56:28.480] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-15 22:56:28.480] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-15 22:56:28.480] [dbx_logger] [info] Sending request to list files.
+[2019-12-15 22:56:28.811] [dbx_logger] [info] Dropbox list-files request found 9 remote items.
+[2019-12-15 22:57:28.813] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-15 22:57:28.813] [dbx_logger] [info] Sending request to list files.
+[2019-12-15 22:57:29.173] [dbx_logger] [info] Dropbox list-files request found 9 remote items.
+[2019-12-15 22:57:29.173] [dbx_logger] [info] Sending request to download file: test6.jpg
+[2019-12-15 22:57:30.113] [dbx_logger] [info] Sending request to download file: test1.jpeg
+[2019-12-15 22:57:30.980] [dbx_logger] [info] Sending request to download file: test2.jpeg
+[2019-12-15 22:57:32.068] [dbx_logger] [info] Sending request to download file: test3.jpg
+[2019-12-15 22:57:33.302] [dbx_logger] [info] Sending request to download file: test5.jpg
+[2019-12-15 22:57:34.100] [dbx_logger] [info] Sending request to download file: test4.jpeg
+[2019-12-15 22:57:35.295] [dbx_logger] [info] Sending request to download file: test6 copy.jpg
+[2019-12-15 22:57:36.178] [dbx_logger] [info] Sending request to download file: test6 copy 2.jpg
+[2019-12-15 22:57:42.458] [dbx_logger] [info] Sending request to download file: test6 copy 3.jpg
+[2019-12-15 22:58:48.396] [dbx_logger] [info] Starting dropbox synchronization.
+[2019-12-15 22:58:48.396] [dbx_logger] [info] Sending request to list files.
+[2019-12-15 22:58:48.727] [dbx_logger] [info] Dropbox list-files request found 9 remote items.
+[2019-12-15 22:59:08.138] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-15 22:59:08.138] [sys_logger] [critical] Exiting main process.

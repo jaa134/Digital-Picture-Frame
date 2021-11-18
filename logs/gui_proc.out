@@ -1,0 +1,104 @@
+[2019-12-14 13:40:21.814] [sys_logger] [info] Logging initialized.
+[2019-12-14 13:40:21.814] [sys_logger] [info] Loading properties.
+[2019-12-14 13:40:21.814] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 13:40:21.814] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 13:40:21.814] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 13:40:21.815] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 13:40:21.815] [sys_logger] [critical] Cannot create store directory.
+[2019-12-14 13:40:21.815] [sys_logger] [critical] Undefined error: 0
+[2019-12-14 13:41:10.774] [sys_logger] [info] Logging initialized.
+[2019-12-14 13:41:10.774] [sys_logger] [info] Loading properties.
+[2019-12-14 13:41:10.774] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 13:41:10.774] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 13:41:10.774] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 13:41:10.775] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 13:41:40.310] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 13:41:40.310] [sys_logger] [critical] Exiting main process.
+[2019-12-14 13:44:46.938] [sys_logger] [info] Logging initialized.
+[2019-12-14 13:44:46.938] [sys_logger] [info] Loading properties.
+[2019-12-14 13:44:46.938] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 13:44:46.938] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 13:44:46.938] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 13:44:46.938] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 13:44:46.939] [sys_logger] [critical] Cannot create store directory.
+[2019-12-14 13:44:46.939] [sys_logger] [critical] File exists
+[2019-12-14 13:47:39.471] [sys_logger] [info] Logging initialized.
+[2019-12-14 13:47:39.471] [sys_logger] [info] Loading properties.
+[2019-12-14 13:47:39.471] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 13:47:39.471] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 13:47:39.471] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 13:47:39.471] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 13:55:58.562] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 13:55:58.562] [sys_logger] [critical] Exiting main process.
+[2019-12-14 14:02:42.922] [sys_logger] [info] Logging initialized.
+[2019-12-14 14:02:42.922] [sys_logger] [info] Loading properties.
+[2019-12-14 14:02:42.923] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 14:02:42.923] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 14:02:42.923] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 14:02:42.923] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 14:02:52.361] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 14:02:52.361] [sys_logger] [critical] Exiting main process.
+[2019-12-14 14:03:42.595] [sys_logger] [info] Logging initialized.
+[2019-12-14 14:03:42.595] [sys_logger] [info] Loading properties.
+[2019-12-14 14:03:42.596] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 14:03:42.596] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 14:03:42.596] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 14:03:42.596] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 14:04:00.820] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 14:04:00.820] [sys_logger] [critical] Exiting main process.
+[2019-12-14 14:30:59.144] [sys_logger] [info] Logging initialized.
+[2019-12-14 14:30:59.144] [sys_logger] [info] Loading properties.
+[2019-12-14 14:30:59.145] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 14:30:59.145] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 14:30:59.145] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 14:30:59.145] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 14:43:50.546] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 14:43:50.546] [sys_logger] [critical] Exiting main process.
+[2019-12-14 14:44:23.189] [sys_logger] [info] Logging initialized.
+[2019-12-14 14:44:23.189] [sys_logger] [info] Loading properties.
+[2019-12-14 14:44:23.189] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 14:44:23.189] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 14:44:23.189] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 14:44:23.189] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 14:46:04.573] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 14:46:04.573] [sys_logger] [critical] Exiting main process.
+[2019-12-14 15:44:23.330] [sys_logger] [info] Logging initialized.
+[2019-12-14 15:44:23.330] [sys_logger] [info] Loading properties.
+[2019-12-14 15:44:23.330] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 15:44:23.330] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 15:44:23.330] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 15:44:23.330] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 15:46:37.498] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 15:46:37.498] [sys_logger] [critical] Exiting main process.
+[2019-12-14 16:27:48.594] [sys_logger] [info] Logging initialized.
+[2019-12-14 16:27:48.594] [sys_logger] [info] Loading properties.
+[2019-12-14 16:27:48.595] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 16:27:48.595] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 16:27:48.595] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 16:27:48.595] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 16:27:53.548] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 16:27:53.548] [sys_logger] [critical] Exiting main process.
+[2019-12-14 16:28:08.671] [sys_logger] [info] Logging initialized.
+[2019-12-14 16:28:08.671] [sys_logger] [info] Loading properties.
+[2019-12-14 16:28:08.672] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-14 16:28:08.672] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-14 16:28:08.672] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-14 16:28:08.672] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-14 16:28:31.906] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-14 16:28:31.906] [sys_logger] [critical] Exiting main process.
+[2019-12-15 22:53:56.846] [sys_logger] [info] Logging initialized.
+[2019-12-15 22:53:56.846] [sys_logger] [info] Loading properties.
+[2019-12-15 22:53:56.847] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-15 22:53:56.847] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-15 22:53:56.847] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-15 22:53:56.847] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-15 22:55:55.855] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-15 22:55:55.855] [sys_logger] [critical] Exiting main process.
+[2019-12-15 22:56:28.480] [sys_logger] [info] Logging initialized.
+[2019-12-15 22:56:28.480] [sys_logger] [info] Loading properties.
+[2019-12-15 22:56:28.480] [sys_logger] [info] Property set: dbx_synch_period=60
+[2019-12-15 22:56:28.480] [sys_logger] [info] Property set: dbx_request_timeout=10
+[2019-12-15 22:56:28.480] [sys_logger] [info] Property set: dbx_access_token=_-KoUZRNs5AAAAAAAAAUk3EJlUSi00KXCRdzAsPQEk2j5CgVdGPN8qhoR-j2ufP-
+[2019-12-15 22:56:28.480] [sys_logger] [info] Starting Dropbox event loop.
+[2019-12-15 22:59:08.138] [sys_logger] [critical] Received shutdown signal (2).
+[2019-12-15 22:59:08.138] [sys_logger] [critical] Exiting main process.
